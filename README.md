@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **16-year-old developer** who joined GitHub on **February 3rd, 2026** with one clear mission: **to learn, grow, and contribute to the amazing developer community**. 
+I'm a **16-year-old Aspiring Developer** who joined GitHub on **February 3rd, 2026** with one clear mission: **to learn, grow, and contribute to the amazing developer community**. 
 
 I believe that the best way to master programming is by doing it alongside others who share the same passion. Whether it's building projects, solving problems, or exploring new technologies, I'm here to embrace every learning opportunity that comes my way.
 
